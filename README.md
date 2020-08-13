@@ -1,0 +1,2 @@
+# SegaluaHTML
+GitHub Pages
